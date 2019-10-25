@@ -1,5 +1,3 @@
-# recetas
-
 # Recetas de Huevos rotos con chorizo
 
 ## Ingredientes
@@ -10,7 +8,6 @@
 4. 4 aceite de oliva en gran cantidad
 5. un poco de pimenton en polvo
 6. un poco de sal
-7. un poco de pimienta
 
 ## Preparacion
 
